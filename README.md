@@ -1,10 +1,10 @@
-# Santorini Open.MP Server - MySQL Gamemode
+# Santorini Open.MP Server - No Save System Gamemode
 
 Welcome to the Santorini Open.MP Server GitHub Repository!
 
 ## Introduction
 
-Santorini Open.MP Server offers a unique gaming experience blending the elements of freestyle gameplay inspired by games like Saints Row, Just Cause, and the original GTA San Andreas. Our server utilizes a MySQL-based gamemode to provide players with endless opportunities for creativity, exploration, and action-packed adventures.
+Santorini Open.MP Server offers a unique gaming experience blending the elements of freestyle gameplay inspired by games like Saints Row, Just Cause, and the original GTA San Andreas. Our server provides players with endless opportunities for creativity, exploration, and action-packed adventures without the constraints of a save system.
 
 ## Features
 
@@ -12,7 +12,7 @@ Santorini Open.MP Server offers a unique gaming experience blending the elements
   
 - **Dynamic Environment:** Experience a dynamic and living world where your actions have consequences. Interact with various objects, NPCs, and vehicles to shape the environment around you.
   
-- **MySQL Gamemode:** Our server's gamemode is powered by MySQL, allowing for seamless persistence of player data, progress, and in-game transactions.
+- **No Save System:** Enjoy the freedom of gameplay without the constraints of a save system. Every game session starts fresh, allowing you to experiment and play without worrying about persistence or consequences.
   
 - **Customization:** Customize your character, vehicles, and properties to reflect your unique style. From flashy outfits to personalized vehicles, the possibilities are endless.
   
